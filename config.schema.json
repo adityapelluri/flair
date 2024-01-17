@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "FlairVentControl",
   "pluginType": "platform",
   "singular": true,
   "schema": {
